@@ -10002,6 +10002,10 @@ h3 {
     border-color: #dee2e6;
   }
 }
+.portfolio-section {
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+}
 .page-section {
   padding: 5rem 0;
 }
